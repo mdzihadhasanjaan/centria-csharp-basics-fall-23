@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0h5eHBZyHxH0gV1lOHIJTv//5EQzewMOIO4lBUNkkZ1iHlRdi7AeqkbdoHuwIg5SKEcd/dLkK4lwgTShC6xH7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdzih\\AppData\\Local\\tmc\\vscode\\centria-csharp-basics-fall-23\\part_03-025_string_split\\src\\Exercise025\\Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mdzih\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

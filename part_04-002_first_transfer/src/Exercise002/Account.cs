@@ -1,0 +1,32 @@
+// DO NOT TOUCH THIS FILE!
+namespace Exercise002
+{
+    using System;
+    public class Account
+    {
+        public double balance { get; set; }
+        private string owner;
+
+        public Account(string owner, double balance)
+        {
+            this.balance = balance;
+            this.owner = owner;
+        }
+
+        public void Deposit(double amount)
+        {
+            this.balance = this.balance + amount;
+        }
+
+        public void Withdrawal(double amount)
+        {
+            this.balance = this.balance - amount;
+        }
+
+        public override string ToString()
+        {
+            return this.owner + " balance: " + this.balance;
+        }
+    }
+}
+// DO NOT TOUCH THIS FILE!

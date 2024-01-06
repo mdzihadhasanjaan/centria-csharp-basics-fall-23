@@ -1,0 +1,14 @@
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\bin\Debug\net6.0\Exercise.exe
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\bin\Debug\net6.0\Exercise.deps.json
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\bin\Debug\net6.0\Exercise.runtimeconfig.json
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\bin\Debug\net6.0\Exercise.dll
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\bin\Debug\net6.0\Exercise.pdb
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.dll
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\refint\Exercise.dll
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.pdb
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+c:\Users\mdzih\AppData\Local\tmc\vscode\centria-csharp-basics-fall-23\part_04-011_agent\src\Exercise011\obj\Debug\net6.0\ref\Exercise.dll
